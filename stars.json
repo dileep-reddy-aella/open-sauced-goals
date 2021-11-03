@@ -1,51 +1,51 @@
 [
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 87725,
+    "stargazers_count": 87815,
     "open_issues_count": 6,
-    "forks_count": 9287
+    "forks_count": 9303
   },
   {
     "full_name": "felipefialho/frontend-challenges",
-    "stargazers_count": 7043,
+    "stargazers_count": 7047,
     "open_issues_count": 0,
     "forks_count": 819
   },
   {
     "full_name": "30-seconds/30-seconds-of-css",
-    "stargazers_count": 14750,
+    "stargazers_count": 14771,
     "open_issues_count": 2,
-    "forks_count": 988
+    "forks_count": 991
   },
   {
     "full_name": "thedaviddias/Front-End-Design-Checklist",
-    "stargazers_count": 4086,
+    "stargazers_count": 4090,
     "open_issues_count": 0,
     "forks_count": 320
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 13646,
+    "stargazers_count": 13655,
     "open_issues_count": 11,
     "forks_count": 989
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 13641,
-    "open_issues_count": 95,
-    "forks_count": 605
+    "stargazers_count": 13674,
+    "open_issues_count": 96,
+    "forks_count": 606
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 146036,
+    "stargazers_count": 146131,
     "open_issues_count": 126,
-    "forks_count": 28937
+    "forks_count": 28953
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 56807,
+    "stargazers_count": 56835,
     "open_issues_count": 2,
-    "forks_count": 5483
+    "forks_count": 5484
   },
   {
     "full_name": "Ajaykumarrachuri/starter",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "antoine92190/vue-advanced-chat",
-    "stargazers_count": 615,
-    "open_issues_count": 12,
-    "forks_count": 192
+    "stargazers_count": 619,
+    "open_issues_count": 10,
+    "forks_count": 193
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 175073,
+    "stargazers_count": 175400,
     "open_issues_count": 88,
-    "forks_count": 25148
+    "forks_count": 25191
   },
   {
     "full_name": "zhiwehu/Python-programming-exercises",
-    "stargazers_count": 17442,
-    "open_issues_count": 140,
-    "forks_count": 5963
+    "stargazers_count": 17472,
+    "open_issues_count": 139,
+    "forks_count": 5969
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 58580,
-    "open_issues_count": 27,
-    "forks_count": 8956
+    "stargazers_count": 58702,
+    "open_issues_count": 28,
+    "forks_count": 8970
   }
 ]
